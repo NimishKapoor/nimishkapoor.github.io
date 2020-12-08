@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+title: Nimish Kapoor
+description: Nimish Kapoor's CV
+favicon: /assets/img/avatar.png
+baseurl: https://nimishkapoor.github.io
+url: https://nimishkapoor.github.io
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -23,7 +23,7 @@ author:
   github: nimishkapoor
   linkedin: nimishkapoor
   twitter: 
-  gavatar: /resumecard/assets/img/avatar.JPG
+  gavatar: /resumecard/assets/img/avatar.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -32,14 +32,14 @@ author:
       location: Bangalore, India
       title: Application Development Engineer
       started: 2020
-      duration: (July 2020 - Present)
+      duration: July 2020 - Present
       description: Full stack web development, machine learning and computer networking. Golang, Python, Flask, React, AWS, GCP, PHP, Salesforce, Redis, Kubernetes, Maria SQL and Postgres SQL.
     - work2:
       company: Arista Networks
       location: Bangalore, India
       title: Application Development Engineer Intern
-      started: 2012
-      duration: (Jan 2020 - June 2014)
+      started: 2020
+      duration: Jan 2020 - June 2014
       description: Developed an api which predicts case status by sentiment analysis of client emails for TAC team using machine learning models and is embedded into the QView, the main application used by TAC for handling all client issues. Developed two tools one to convert old EOS commands to new and vice versa. And other to configure the lab's device under testing automatically by using clients configuration file and modifying them according to lab's environment. For both these tools backend was completed in python, frontend in React JS and were deployed using Google cloud platform.
     - work3:
       company: Google Summer of Code at Scilab
@@ -69,17 +69,17 @@ author:
       proficiency: Native
   programmingSkills:
     - skill1:
-      name: HTML
-      percentage: 100%
+      name: C++
+      percentage: 80%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Python
+      percentage: 80%
     - skill3:
-      name: JavaScript
+      name: Java
       percentage: 70%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: JavaScript
+      percentage: 60%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: GOLang
+      percentage: 70%
