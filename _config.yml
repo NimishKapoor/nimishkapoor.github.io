@@ -45,7 +45,7 @@ author:
       company: Google Summer of Code at Scilab
       location: Paris, France (Remote)
       title: Intern Software Developer
-      started: April 2018
+      started: 2018
       duration: April 2018 - September 2018
       description: The aim of my project was to improve the code quality of Scilab with the help of various Static Analysis Tools​ like ​Scan Coverity(Java and C/C++), FindBugs(Java),​​ Cppcheck, Valgrind(Dynamic Analysis Tool for cross-checking Memory related fixes) and Clang-Tidy (last three for C/C++) by fixing Java, JNI and C/C++ ​ related errors​. In this project, I fixed various bugs, errors, defects, typical programming errors like style violations, interface misuse reported by Static analysis tools and provided comments to avoid future conflicts (e.g use of proper API). Hence, improved the overall quality of the Scilab code.
   educationHistory:
