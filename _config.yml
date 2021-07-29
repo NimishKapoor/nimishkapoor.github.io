@@ -28,20 +28,27 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
+      company: Nutanix
+      location: Bangalore, India
+      title: Member Of Technical Staff - 2 
+      started: 2021
+      duration: July 2021 - Present
+      description: Full Stack Developer at CALM Team.
+    - work2:
       company: Arista Networks
       location: Bangalore, India
       title: Application Development Engineer
       started: 2020
-      duration: July 2020 - Present
+      duration: July 2020 - July 2021
       description: Working as a Machine Learning engineer, Full Stack Web Developer and DevOps Engineer. GoLang, Python, Flask, React, JS, TS, AWS, GCP, Salesforce, Redis, Kubernetes, Rest API, GraphQL, Maria SQL and Postgres SQL.
-    - work2:
+    - work3:
       company: Arista Networks
       location: Bangalore, India
       title: Application Development Engineer Intern
       started: 2020
       duration: Jan 2020 - June 2020
       description: Developed an api which predicts case status by sentiment analysis of client emails for TAC team using machine learning models and is embedded into the QView, the main application used by TAC for handling all client issues. Developed two tools one to convert old EOS commands to new and vice versa. And other to configure the lab's device under testing automatically by using clients configuration file and modifying them according to lab's environment. For both these tools backend was completed in python, frontend in React JS and were deployed using Google Cloud Platform.
-    - work3:
+    - work4:
       company: Google Summer of Code at Scilab
       location: Paris, France (Remote)
       title: Intern Software Developer
