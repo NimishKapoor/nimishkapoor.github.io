@@ -91,6 +91,6 @@ author:
     - skill5:
       name: Problem Solving
       percentage: 80%
-     -skill6:
+    - skill6:
       name: Algorithms And Data Structures
       percentage: 80%
