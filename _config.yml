@@ -33,14 +33,14 @@ author:
       title: Member Of Technical Staff - 2 
       started: 2021
       duration: July 2021 - Present
-      description: Working as a Full Stack Developer at CALM Team. Golang, Python, React JS, microservices.
+      description: Working as a Full Stack Developer at CALM Team. Go, Python, React JS, microservices.
     - work2:
       company: Arista Networks
       location: Bangalore, India
       title: Application Development Engineer
       started: 2020
       duration: July 2020 - July 2021
-      description: Worked as a Machine Learning engineer, Full Stack Web Developer and DevOps Engineer. GoLang, Python, Flask, React, JS, TS, AWS, GCP, Salesforce, Redis, Kubernetes, Rest API, GraphQL, Maria SQL and Postgres SQL.
+      description: Worked as a Machine Learning engineer, Full Stack Web Developer and DevOps Engineer. Go, Python, Flask, React, JS, TS, AWS, GCP, Salesforce, Redis, Kubernetes, Rest API, GraphQL, Maria SQL and Postgres SQL.
     - work3:
       company: Arista Networks
       location: Bangalore, India
@@ -77,17 +77,20 @@ author:
       proficiency: Native
   programmingSkills:
     - skill1:
-      name: C++
+      name: Go
       percentage: 80%
     - skill2:
       name: Python
       percentage: 80%
     - skill3:
-      name: Java
-      percentage: 70%
+      name: C++
+      percentage: 80%
     - skill4:
-      name: JavaScript
-      percentage: 60%
-    - skill5:
-      name: GOLang
+      name: React JS
       percentage: 70%
+    - skill5:
+      name: Problem Solving
+      percentage: 80%
+     -skill6:
+      name: Algorithms And Data Structures
+      percentage: 80%
