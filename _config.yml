@@ -27,28 +27,35 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
-    - work1:
+     - work1:
+      company: Nutanix
+      location: Bangalore, India
+      title: Member Of Technical Staff - 3 
+      started: 2023
+      duration: August 2023 - Present
+      description: Working as a Full Stack Developer at CALM Team. Go, Python, React JS, microservices.
+    - work2:
       company: Nutanix
       location: Bangalore, India
       title: Member Of Technical Staff - 2 
       started: 2021
-      duration: July 2021 - Present
-      description: Working as a Full Stack Developer at CALM Team. Go, Python, React JS, microservices.
-    - work2:
+      duration: July 2021 - July 2023
+      description: Worked as a Full Stack Developer at CALM Team. Go, Python, React JS, microservices.
+    - work3:
       company: Arista Networks
       location: Bangalore, India
       title: Application Development Engineer
       started: 2020
       duration: July 2020 - July 2021
       description: Worked as a Machine Learning engineer, Full Stack Web Developer and DevOps Engineer. Go, Python, Flask, React, JS, TS, AWS, GCP, Salesforce, Redis, Kubernetes, Rest API, GraphQL, Maria SQL and Postgres SQL.
-    - work3:
+    - work4:
       company: Arista Networks
       location: Bangalore, India
       title: Application Development Engineer Intern
       started: 2020
       duration: Jan 2020 - June 2020
       description: Developed an api which predicts case status by sentiment analysis of client emails for TAC team using machine learning models and is embedded into the QView, the main application used by TAC for handling all client issues. Developed two tools one to convert old EOS commands to new and vice versa. And other to configure the lab's device under testing automatically by using clients configuration file and modifying them according to lab's environment. For both these tools backend was completed in python, frontend in React JS and were deployed using Google Cloud Platform.
-    - work4:
+    - work5:
       company: Google Summer of Code at Scilab
       location: Paris, France (Remote)
       title: Intern Software Developer
